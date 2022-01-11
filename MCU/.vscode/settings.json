@@ -1,0 +1,20 @@
+{
+  "files.associations": {
+    "coreport.h": "c",
+    "gpio.h": "c",
+    "stdbool.h": "c",
+    "stdint.h": "c",
+    "stdlib.h": "c",
+    "time.h": "c",
+    "uart.h": "c",
+    "portconfig.h": "c",
+    "led.h": "c",
+    "voltcalculate.h": "c",
+    "basedrive.h": "c",
+    "bottomdrive.h": "c",
+    "main.h": "c",
+    "loop.h": "c",
+    "sysconfig.h": "c",
+    "stm32f10x.h": "c"
+  }
+}
